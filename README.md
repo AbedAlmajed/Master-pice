@@ -31,9 +31,11 @@ Foodi is a platform designed to offer personalized meals tailored to individual 
 - **Quality Ingredients:** Meals crafted with high-quality ingredients to ensure the best taste and nutrition.
 - **Responsive Design:** Accessible on both desktop and mobile devices.
 - **Secure Payments:** Safe and secure payment options for hassle-free transactions.
-- **Admin Dashboard:** Manage users, orders, and meal customization options efficiently.[project Documentaion.docx](https://github.com/user-attachments/files/17530091/project.Documentaion.docx)
+- **Admin Dashboard:** Manage users, orders, and meal customization options efficiently.
 
-[Project Brief.docx](https://github.com/user-attachments/files/17530090/Project.Brief.docx)
+Project Documentaion : [project Documentaion.docx](https://github.com/user-attachments/files/17530091/project.Documentaion.docx)
+
+Project Breif : [Project Brief.docx](https://github.com/user-attachments/files/17530090/Project.Brief.docx)
 
 
 
